@@ -9,6 +9,10 @@
 </kbd>
 
 <kbd>
+  <img src="./images/3.1.png"  alt="Main Menu"/>
+</kbd>
+
+<kbd>
   <img src="./images/3.png"  alt="Main Menu"/>
 </kbd>
 
